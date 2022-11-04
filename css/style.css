@@ -1,5 +1,6 @@
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https//db.onlinewebfonts.com/c/ae8e571b498d2dafbcf6fa09693c89d9?family=FederalStreamlinerW01-Bold');
 
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
@@ -15,11 +16,13 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: Poppins;
+  font-family: FederalStreamliner;
+  /* color: white; */
 }
 
 a {
   text-decoration: none;
+  font-size: 15px;
 }
 
 /* Custom design below! */
